@@ -54,7 +54,10 @@ En esta sección se detallan los pasos de refactorización realizados en el proy
 Se ha configurado Git para el proyecto y se han realizado operaciones de commit. A continuación se muestran los pasos realizados:
 
 1. **Creación del repositorio**: Se creó un repositorio público en GitHub llamado `bajo_tabero_alvaro_ED04_Tarea`.
+   - ![Creación del primer commit](screenshots/captura1.png)
    - ![Creación del repositorio en GitHub](screenshots/captura2.png)
+   - ![Continuación de creación del repositorio en GitHub](screenshots/captura3.png)
+   - ![repositorio en GitHub](screenshots/captura4.png)
 
 2. **Commit inicial**: Se realizó el primer commit con el mensaje "Creación del proyecto y configuración inicial".
    - ![Commit inicial en Git](screenshots/captura5.png)
